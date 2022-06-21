@@ -1,1 +1,1 @@
-# sentiment_analysis_logistic_regression-NLP_Specialization_Assignment
+# sentiment analysis of tweets using logistic regression
